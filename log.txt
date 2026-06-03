@@ -103,3 +103,18 @@
 2026-06-03 17:13:47 | [IP CHANGE] 2003:e1:2746:1af8:6310:ae68:f42e:864c -> 87.177.235.121
 2026-06-03 17:13:48 | [STOP] PID 10332
 2026-06-03 17:13:48 | [LINK] updated -> 87.177.235.121
+2026-06-03 17:13:59 | [GIT] Commit done: IP change: 2003:e1:2746:1af8:6310:ae68:f42e:864c -> 87.177.235.121
+2026-06-03 17:13:59 | [START] Server mit IP: 87.177.235.121
+ * Serving Flask app 'app'
+ * Debug mode: on
+Cannot assign requested address
+2026-06-03 17:14:09 | [CRASH] restart
+2026-06-03 17:14:09 | [START] Server mit IP: 2003:e1:2746:1af8:6310:ae68:f42e:864c
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://[2003:e1:2746:1af8:6310:ae68:f42e:864c]:5400
+[33mPress CTRL+C to quit[0m
+2026-06-03 17:14:19 | [IP CHANGE] 87.177.235.121 -> 2003:e1:2746:1af8:6310:ae68:f42e:864c
+2026-06-03 17:14:19 | [STOP] PID 10377
+2026-06-03 17:14:19 | [LINK] updated -> 2003:e1:2746:1af8:6310:ae68:f42e:864c
