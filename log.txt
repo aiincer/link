@@ -74,3 +74,11 @@
 /home/main-server/Schreibtisch/Website/venv/bin/python: can't open file '/home/main-server/link/zentral/app.py': [Errno 2] No such file or directory
 2026-06-03 16:37:24 | Auto-Server Watcher gestartet...
 2026-06-03 16:37:35 | [LINK] updated -> 2003:e1:2746:1af8:6310:ae68:f42e:864c
+2026-06-03 16:37:37 | [GIT] Commit done: startup commit
+2026-06-03 16:37:37 | [START] Server mit IP: 2003:e1:2746:1af8:6310:ae68:f42e:864c
+/home/main-server/Schreibtisch/Website/venv/bin/python: can't open file '/home/main-server/link/zentral/app.py': [Errno 2] No such file or directory
+2026-06-03 16:37:47 | [CRASH] restart
+2026-06-03 16:37:47 | [START] Server mit IP: 2003:e1:2746:1af8:6310:ae68:f42e:864c
+/home/main-server/Schreibtisch/Website/venv/bin/python: can't open file '/home/main-server/link/zentral/app.py': [Errno 2] No such file or directory
+2026-06-03 16:42:21 | Auto-Server Watcher gestartet...
+2026-06-03 16:42:32 | [LINK] updated -> 2003:e1:2746:1af8:6310:ae68:f42e:864c
