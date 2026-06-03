@@ -82,3 +82,24 @@
 /home/main-server/Schreibtisch/Website/venv/bin/python: can't open file '/home/main-server/link/zentral/app.py': [Errno 2] No such file or directory
 2026-06-03 16:42:21 | Auto-Server Watcher gestartet...
 2026-06-03 16:42:32 | [LINK] updated -> 2003:e1:2746:1af8:6310:ae68:f42e:864c
+2026-06-03 16:42:34 | [GIT] Commit done: startup commit
+2026-06-03 16:42:34 | [START] Server mit IP: 2003:e1:2746:1af8:6310:ae68:f42e:864c
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://[2003:e1:2746:1af8:6310:ae68:f42e:864c]:5400
+[33mPress CTRL+C to quit[0m
+2003:e1:2746:1a01:8db6:d73:f502:6fbc - - [03/Jun/2026 16:43:20] "GET / HTTP/1.1" 200 -
+2003:e1:2746:1a01:8db6:d73:f502:6fbc - - [03/Jun/2026 16:43:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2a04:4e41:1801:1d1b::859a:6d1b - - [03/Jun/2026 16:44:13] code 400, message Bad request version ('¡\x96Ñ©ÿ9ÄD@7¬RVöq\x86;xöáx\x9cÌ©qvn\x03O/\x95ë\x00*')
+2a04:4e41:1801:1d1b::859a:6d1b - - [03/Jun/2026 16:44:13] "[31m[1m\x16\x03\x01\x05å\x01\x00\x05á\x03\x03¦J\x01ê1\x94DÝn²\x91Xñl×\x1f\x06>oÌ½ø\x1aÏç9\x04àüp\x82C ¡\x96Ñ©ÿ9ÄD@7¬RVöq\x86;xöáx\x9cÌ©qvn\x03O/\x95ë\x00*[0m" 400 -
+2a04:4e41:1801:1d1b::859a:6d1b - - [03/Jun/2026 16:44:13] code 400, message Bad request syntax ('\x16\x03\x01\x05å\x01\x00\x05á\x03\x03S@\x83IÓï*à')
+2a04:4e41:1801:1d1b::859a:6d1b - - [03/Jun/2026 16:44:13] "[31m[1m\x16\x03\x01\x05å\x01\x00\x05á\x03\x03S@\x83IÓï*à[0m" 400 -
+2a04:4e41:1801:1d1b::859a:6d1b - - [03/Jun/2026 16:44:13] code 400, message Bad request version ('\x10\x9eän§NÃÿÉîåU»}º\x00*êê\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À')
+2a04:4e41:1801:1d1b::859a:6d1b - - [03/Jun/2026 16:44:13] "[31m[1m\x16\x03\x01\x05å\x01\x00\x05á\x03\x03zRìF,æOöaw(\x1f­]\x92\x0e\x02%º\x02AYã16I_\x81"\x83\x18§ Ó£¾)vSþÑ¦ÿ\x9cÙ\x17\x04ßQ\x1d\x10\x9eän§NÃÿÉîåU»}º\x00*êê\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À[0m" 400 -
+2a04:4e41:1801:1d1b::859a:6d1b - - [03/Jun/2026 16:44:13] code 400, message Bad request version ('ÝUF1ý6Ü£Iòy\x8aÊ\x03¨à\x8aû>\x00*úú\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À')
+2a04:4e41:1801:1d1b::859a:6d1b - - [03/Jun/2026 16:44:13] "[31m[1m\x16\x03\x01\x05å\x01\x00\x05á\x03\x03\x09\x0e\x81\x03;ñµ\x1eJïØé\x91Í\x17\x8fè~Ü\x08\x0f\x83þTÜ Yó;G*. q\x85A\x16ê\x8c8L8\x9dÇ)\x0dÝUF1ý6Ü£Iòy\x8aÊ\x03¨à\x8aû>\x00*úú\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À[0m" 400 -
+2a04:4e41:1801:1d1b::859a:6d1b - - [03/Jun/2026 16:44:13] "GET / HTTP/1.1" 200 -
+2026-06-03 17:13:47 | [IP CHANGE] 2003:e1:2746:1af8:6310:ae68:f42e:864c -> 87.177.235.121
+2026-06-03 17:13:48 | [STOP] PID 10332
+2026-06-03 17:13:48 | [LINK] updated -> 87.177.235.121
